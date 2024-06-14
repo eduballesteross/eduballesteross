@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">EDU BALLESTEROS PÉREZ</h1>
+<h1 align="center">EDUARDO BALLESTEROS PÉREZ</h1>
 
 ###
 
