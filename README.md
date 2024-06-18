@@ -14,10 +14,7 @@
 
 ###
 
-<br clear="both">
-
-
-<p align="left">Hi there, I'm Eduardo Ballesteros <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50" /><br>🔭 Studying: Advanced Degree in Web Application Development at <a href="https://altair.edu.es/oferta-educativa/formacion-profesional/" target="_blank">Centro Educativo Altair</a>.<br>📚 Currently learning: Java, C#, HTML, CSS, Bootstrap, JavaScript.<br>⚡ Hobbies: In my free time, I enjoy sports and hiking in nature.</p>
+<p align="left"> <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50" /> Hi there, I'm Eduardo Ballesteros <br>🔭 Studying: Advanced Degree in Web Application Development at <a href="https://altair.edu.es/oferta-educativa/formacion-profesional/" target="_blank">Centro Educativo Altair</a>.<br>📚 Currently learning: Java, C#, HTML, CSS, Bootstrap, JavaScript.<br>⚡ Hobbies: In my free time, I enjoy sports and hiking in nature.</p>
 
 ###
 
