@@ -15,15 +15,9 @@
 ###
 
 <br clear="both">
-<h1>
-    <img src="https://images.squarespace-cdn.com/content/v1/584ac727c534a52d610a4a4a/1633709369722-QXXEQYJ8OYVZKN7FVR4A/EYES.gif?format=2500w" width="50" />
-    <b>Hi, I'm Sergio</b>
-    <br>
-    <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50" />
-    <b>a frontend developer in Angular and React</b>
-</h1>
 
-<p align="left">Hi there, I'm Eduardo Ballesteros 👋<br>🔭 Studying: Advanced Degree in Web Application Development at <a href="https://altair.edu.es/oferta-educativa/formacion-profesional/" target="_blank">Centro Educativo Altair</a>.<br>📚 Currently learning: Java, C#, HTML, CSS, Bootstrap, JavaScript.<br>⚡ Hobbies: In my free time, I enjoy sports and hiking in nature.</p>
+
+<p align="left">Hi there, I'm Eduardo Ballesteros <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="50" /><br>🔭 Studying: Advanced Degree in Web Application Development at <a href="https://altair.edu.es/oferta-educativa/formacion-profesional/" target="_blank">Centro Educativo Altair</a>.<br>📚 Currently learning: Java, C#, HTML, CSS, Bootstrap, JavaScript.<br>⚡ Hobbies: In my free time, I enjoy sports and hiking in nature.</p>
 
 ###
 
